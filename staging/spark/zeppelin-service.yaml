@@ -9,4 +9,4 @@ spec:
       name: http
   selector:
     component: zeppelin
-  type: LoadBalancer
+  type: ClusterIP

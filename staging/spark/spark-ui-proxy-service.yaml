@@ -9,4 +9,4 @@ spec:
       name: http
   selector:
     component: spark-ui-proxy
-  type: LoadBalancer
+  type: ClusterIP
